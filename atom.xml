@@ -4,7 +4,7 @@
   <title><![CDATA[矮土窝]]></title>
   <link href="http://ituwo.github.io/atom.xml" rel="self"/>
   <link href="http://ituwo.github.io/"/>
-  <updated>2014-06-05T19:58:21+08:00</updated>
+  <updated>2014-06-05T20:34:49+08:00</updated>
   <id>http://ituwo.github.io/</id>
   <author>
     <name><![CDATA[ituwo]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Just for Test]]></title>
+    <link href="http://ituwo.github.io/blog/2014/06/05/just-for-test/"/>
+    <updated>2014-06-05T20:27:00+08:00</updated>
+    <id>http://ituwo.github.io/blog/2014/06/05/just-for-test</id>
+    <content type="html"><![CDATA[<p>Just for test</p>
+]]></content>
+  </entry>
   
 </feed>
