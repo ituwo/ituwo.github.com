@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://ituwo.github.com/blog/2014/06/05/just-for-test/</loc>
+        <loc>http://ituwo.com/blog/2014/06/05/just-for-test/</loc>
         <lastmod>2014-06-05T22:03:12+08:00</lastmod>
     </url>
     <url>
-        <loc>http://ituwo.github.com/blog/archives/</loc>
+        <loc>http://ituwo.com/blog/archives/</loc>
         <lastmod>2014-06-05T22:03:12+08:00</lastmod>
     </url>
     <url>
-        <loc>http://ituwo.github.com/blog/categories/</loc>
+        <loc>http://ituwo.com/blog/categories/</loc>
         <lastmod>2014-06-05T22:03:12+08:00</lastmod>
     </url>
     <url>
-        <loc>http://ituwo.github.com/</loc>
+        <loc>http://ituwo.com/</loc>
         <lastmod>2014-06-05T22:03:12+08:00</lastmod>
     </url>
     <url>
-        <loc>http://ituwo.github.com/robots.txt</loc>
+        <loc>http://ituwo.com/robots.txt</loc>
         <lastmod>2014-06-05T16:52:28+08:00</lastmod>
     </url>
 </urlset>

@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://ituwo.github.com/sitemap.xml 
+Sitemap: http://ituwo.com/sitemap.xml 
